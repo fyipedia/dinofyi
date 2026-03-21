@@ -1,6 +1,6 @@
 [project]
 name = "dinofyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Dinosaur paleontology encyclopedia API client — dinofyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["dinofyi[api,cli,mcp]"]
 
 [project.scripts]
 dinofyi = "dinofyi.cli:app"
+dinofyi-mcp = "dinofyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 dinofyi = "dinofyi.mcp_server:mcp"
