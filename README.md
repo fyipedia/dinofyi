@@ -339,6 +339,15 @@ Embed [DinoFYI](https://dinofyi.com) widgets on any website with [dinofyi-embed]
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.dinofyi.com)
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://dinofyi.com](https://dinofyi.com):
+- [Homepage](https://dinofyi.com)
+- [Developer documentation](https://dinofyi.com/developers/)
+- [Sitemap (full content index)](https://dinofyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
